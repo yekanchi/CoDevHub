@@ -1,0 +1,1 @@
+%~dp0\..\bin\pwsh\pwsh.exe -windowstyle hidden -ExecutionPolicy Bypass -File %~dp0winStartUp.ps1

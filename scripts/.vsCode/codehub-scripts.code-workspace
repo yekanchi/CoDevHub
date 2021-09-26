@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "..",
+      "name": "CodeHub Scripts"
+    }
+  ],
+  "settings": {},
+  // "launch": {
+  //   "version": "0.2.0",
+  //   "configurations": [
+  //     {
+  //       "name": "PowerShell: Interactive Session",
+  //       "type": "PowerShell",
+  //       "request": "launch",
+  //       "cwd": "",
+  //       "preLaunchTask": "PrintInfo"
+  //     }
+  //   ]
+  // },
+  // "tasks": {
+  //   "version": "2.0.0",
+  //   "tasks": [
+  //     {
+  //       "label": "PrintInfo",
+  //       "type": "shell",
+  //       "command": "echo ${workspaceFolder}"
+  //     }
+  //   ]
+  // }
+}

@@ -1,0 +1,1 @@
+$count = 0 ;E:\CodeHub\bin\tools\nuget\nuget.exe list -source ITNugets -allversions| ForEach-Object {E:\CodeHub\bin\tools\nuget\nuget.exe install $_.tostring().substring(0, $_.tostring().indexof(' ')) -version $_.tostring().substring($_.tostring().indexof(' ')); $count++}; $count

@@ -1,0 +1,14 @@
+#ignorebases
+
+nodePacks/storage
+nodePacks/tarfiles
+tmp
+utils
+
+src/open/*
+src/test/*
+src/template/**/*.exe
+
+node_modules/
+*.e2e
+src/*.exe

@@ -1,0 +1,1 @@
+%~dp0\..\bin\pwsh\pwsh.exe -NoExit -ExecutionPolicy Bypass -File %~dp0IntegratedConsole.ps1
